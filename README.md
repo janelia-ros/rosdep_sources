@@ -3,7 +3,7 @@ rosdep_sources
 
 Authors:
 
-    Peter Polidoro <polidorop@janelia.hhmi.org>
+    Peter Polidoro <peterpolidoro@gmail.com>
 
 License:
 
